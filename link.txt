@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OCR.dir/main.cpp.o CMakeFiles/OCR.dir/NN2.cpp.o CMakeFiles/OCR.dir/Timer.cpp.o CMakeFiles/OCR.dir/tests/test_xor.cpp.o  -o OCR  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

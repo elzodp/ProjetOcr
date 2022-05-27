@@ -1,0 +1,3 @@
+/home/elhadji/Bureau/ProjetOCR/src/CMakeFiles/rebuild_cache.dir
+/home/elhadji/Bureau/ProjetOCR/src/CMakeFiles/edit_cache.dir
+/home/elhadji/Bureau/ProjetOCR/src/CMakeFiles/OCR.dir

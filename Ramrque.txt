@@ -1,0 +1,8 @@
+Elements à bien préciser dans le rapport:
+
+Pourquoi on utilise une fonction Sigmoid pour un NN?
+-Difference between linear and non linear boundary for machine learning
+
+https://www.geeksforgeeks.org/multipurpose-internet-mail-extension-mime-protocol/
+
+https://www.geeksforgeeks.org/ml-neural-network-implementation-in-c-from-scratch/
